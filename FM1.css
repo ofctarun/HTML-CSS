@@ -10,7 +10,7 @@ body{
 }
 .profile-image{
     border-radius: 50%;
-    height: 80px;
+    height:80px;
     width:80px;
     object-fit: cover;
     margin-bottom: 25px;
